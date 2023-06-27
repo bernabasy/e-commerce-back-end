@@ -58,7 +58,7 @@ Clone this repository to your desired folder.
 
 ```sh
 git clone https://github.com/bernabasy/e-commerce-back-end.git
-cd Blogify
+cd e-commerce-back-end
 ```
 
 ### 📥 Installation
