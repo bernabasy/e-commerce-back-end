@@ -1,8 +1,3 @@
-<a name="readme-top"></a>
-
-<details>
-<summary>Table of Contents</summary>
-
 - [📰 e-commerce - Rails App ](#-e-commerce-)
   - [🧰 Tech Stack ](#-tech-stack--)
   - [✨ Key Features ](#-key-features--)
